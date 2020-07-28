@@ -1,8 +1,8 @@
 # My To do star list
 Below is list of __skills__ to achive **ASAP**
 ## Progarming
-  - Learn Python
-  - Learn git
+  -Learn Python-
+  *Learn git*
 ## Collaboration
-  - Git
-  - GitHub
+  __Git__
+  **GitHub**
