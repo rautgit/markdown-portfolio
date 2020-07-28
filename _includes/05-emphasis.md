@@ -1,5 +1,5 @@
 # My To do star list
-Below is list of _skills_ to achive **ASAP**
+Below is list of __skills__ to achive **ASAP**
 ## Progarming
   - Learn Python
   - Learn git
